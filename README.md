@@ -1,4 +1,4 @@
-# CollectionBuilder-CONTENTdm
+# HDL Skin using CollectionBuilder-CONTENTdm
 
 CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories.
 
@@ -7,12 +7,12 @@ CollectionBuilder-CONTENTdm utilizes [CONTENTdm](https://www.oclc.org/en/content
 
 Visit the [CollectionBuilder home](https://collectionbuilder.github.io/) for more information about getting started!
 
-If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about its use in the wild. 
+If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about its use in the wild.
 There are also currently opportunities to [collaborate on CollectionBuilder](https://collectionbuilder.github.io/about.html#the-grant).
 
 ----------
 
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) as part of the Lib-STATIC toolkit. 
+CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) as part of the Lib-STATIC toolkit.
 Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
 
 The basic frame work is created using [Bootstrap](https://getbootstrap.com/) and [jQuery](https://jquery.com/).
@@ -23,7 +23,7 @@ Questions can be directed to **libstatic.uidaho@gmail.com**
 
 ## License
 
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
+CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-contentdm/blob/main/LICENSE). 
+CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-contentdm/blob/main/LICENSE).
 This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
