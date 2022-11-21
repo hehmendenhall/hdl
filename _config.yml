@@ -34,10 +34,10 @@ author: CollectionBuilder
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
+organization-name: "The Huntington Library, Art Museum, and Botanical Gardens"
+organization-link: https://www.huntington.org
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-nav: https://github.com/hehmendenhall/hdl/blob/main/assets/img/HTG_logo_vert_tag_la.jpg
 
 
 ##########
@@ -48,8 +48,34 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwh
 metadata: demo_psychiana
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: psychiana
+cdm-collection-id: p15150coll8
+cdm-collection-id: p15150coll7
+cdm-collection-id: p15150coll4
+cdm-collection-id: p15150coll2
+cdm-collection-id: p15150coll3
+cdm-collection-id: p9539coll1
+cdm-collection-id: p16003coll13
+cdm-collection-id: p16003coll11
+cdm-collection-id: p16003coll19
+cdm-collection-id: p16003coll14
+cdm-collection-id: p16003coll12
+cdm-collection-id: p16003coll4
+cdm-collection-id: p16003coll7
+cdm-collection-id: p16003coll10
+cdm-collection-id: p16003coll5
+cdm-collection-id: p16003coll18
+cdm-collection-id: p16003coll15
+cdm-collection-id: p15150coll5
+cdm-collection-id: p16003coll17
+cdm-collection-id: p16003coll2
+cdm-collection-id: p16003coll16
+cdm-collection-id: p16003coll6
+cdm-collection-id: p15150coll1
+cdm-collection-id: p16003coll8
+cdm-collection-id: p16003coll20
+
 # CONTENTdm server url
-cdm-url: https://digital.lib.uidaho.edu
+cdm-url: https://hdl.huntington.org
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
