@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://hdl.huntington.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /demo/psychiana
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder
+source-code: https://github.com/hehmendenhall/hdl
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Collection Builder CDM Skin
+title: Huntington Digital Library
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
